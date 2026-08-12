@@ -1,0 +1,6 @@
+{
+  "name": "JiuManager",
+  "description": "Simulador de carreira e gestão de BJJ com mundo vivo, combates detalhados, bots IA 24/7, torneios e modo admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
